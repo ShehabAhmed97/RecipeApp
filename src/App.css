@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'New Tegomin', serif !important;
+}
+
